@@ -30,3 +30,9 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
