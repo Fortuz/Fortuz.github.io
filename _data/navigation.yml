@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "Quick-Start Guide"
+    url: /year-archive/
+  - title: "Template useage"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
