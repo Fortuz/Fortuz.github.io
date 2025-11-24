@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Balázs Nagy (Fortuz)"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher and Lead developer"
+  bio              : "Researcher and Developer"
   location         : "Hungary"
   email            :
   links:
@@ -136,13 +136,13 @@ author:
       url: "https://github.com/Fortuz"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0001-5275-9439"
+      #url: "https://orcid.org/0000-0001-5275-9439"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap" #"ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=vORFnB8AAAAJ&hl=hu"
     - label: "ResearchGate"
       icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Balazs-Nagy-7"
+      #url: "https://www.researchgate.net/profile/Balazs-Nagy-7"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -274,8 +274,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
-academicons: true
 
 # mimic GitHub Pages with --safe
 whitelist:
