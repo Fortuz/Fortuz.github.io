@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Mecanumbot documentation"
+title                    : "MicroLab"
 title_separator          : "-"
-subtitle                 : "Version 3.0" # site tagline that appears below site title in masthead
+subtitle                 : "creative robotics" # site tagline that appears below site title in masthead
 name                     : "Balázs Nagy (Fortuz)"
-description              : "Documentation for the Mecanumbot robot project"
+description              : "Documentation site for the project in the MicroLab"
 url                      : "https://Fortuz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Fortuz/Fortuz.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -326,11 +326,11 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
+      share: false
       related: true

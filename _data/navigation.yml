@@ -1,14 +1,28 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /year-archive/
-  - title: "Template useage"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: https://fortuz.github.io/
+  - title: "Staff"
+    url: /_pages/staff/
+  - title: "Useful"
+    url: /_pages/useful/
+
+mecanumbot:
+  - title: "Mecanumbot"
+    url: /_pages/mecanumbot_main/
+    children:
+      - title: "Assembly Instructions"
+        url: /_pages/mecanumbot_main/#assembly-instructions
+
+unitree:
+  - title: "Unitree Documentation"
+    url: /_pages/unitree_main/
+
+tiago:
+  - title: "Tiago Documentation"
+    url: /_pages/tiago_main/
+
+
+biscee:
+  - title: "Biscee Documentation"
+    url: /_pages/biscee_main/
