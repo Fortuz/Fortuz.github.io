@@ -11,26 +11,21 @@ permalink: /docs/mecanumbot_main/
 
 ## Overview
 
-The Mecanumbot is a Turtlebot3 friend concept. Using mechanum wheel drive system and mounted with extra motors like the grabber and the camera moving motor. Due to the hardware changes the original Turtlebot3 code was modified and improved. Low level hardware components like the OpenCR microcontroller code were changed andan additional Srduino Nano microcontroller were added to handle the LEDs on the robot back. The Camera was elevated to provide a better view angle and to not block the LIDAR. The extra mounts are 3D printed.
+<p style="text-align: justify;">
+The Mecanumbot is a Turtlebot3 friend concept. Using mechanum wheel drive system and mounted with extra motors like the grabber and the camera moving motor. Due to the hardware changes the original Turtlebot3 code was modified and improved. Low level hardware components like the OpenCR microcontroller code were changed and an additional Arduino Nano microcontroller were added to handle the LEDs on the robot back. The Camera was elevated to provide a better view angle and to not block the LIDAR. The extra mounts are 3D printed.
+</p>
 
 The original [Turtlebot3 documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) can be seen here. 
 
-## Assembly Instructions
+The project is currently developed in ROS2 Humble.
 
-Content is coming soon.
+<p align="center">
+  <img src="https://github.com/Fortuz/mecanumbot/raw/main/docs/images/mecanumbot.jpg" 
+       alt="Mecanumbot image" 
+       style="max-width:500px;">
+</p>
 
-Schematics
-
-![Nano and LED connection schematic](/assets/images/mecanumbot/Nano_Led_schematic.png)
-
-stb
-
-![OpenCR and Motor schematic](/assets/images/mecanumbot/OpenCR_Motor_schematic.png)
-
-stb
-
-![Raspberry Pi and USB schematic](/assets/images/mecanumbot/RaspberryPi_USB_schematic.png)
-
-stb
-
-![Network architecture schematic](/assets/images/mecanumbot/Network_architecture.png)
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <a href="/" class="btn btn--primary">Home</a>
+  <a href="/docs/hardware_assembly/" class="btn btn--primary">Next Page</a>
+</div>
