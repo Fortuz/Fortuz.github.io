@@ -2,7 +2,7 @@
 title: "Useful links and references"
 layout: single
 toc: false
-permalink: /_pages/useful/
+permalink: /docs/useful/
 ---
 
 [MinimalMistake template useage guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)

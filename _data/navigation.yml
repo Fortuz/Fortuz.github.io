@@ -3,26 +3,25 @@ main:
   - title: "Home"
     url: https://fortuz.github.io/
   - title: "Staff"
-    url: /_pages/staff/
+    url: /docs/staff/
   - title: "Useful"
-    url: /_pages/useful/
+    url: /docs/useful/
 
 mecanumbot:
   - title: "Mecanumbot"
-    url: /_pages/mecanumbot_main/
+    url: /docs/mecanumbot_main/
     children:
       - title: "Assembly Instructions"
-        url: /_pages/mecanumbot_main/#assembly-instructions
+        url: /docs/mecanumbot_main/#assembly-instructions
 
 unitree:
   - title: "Unitree Documentation"
-    url: /_pages/unitree_main/
+    url: /docs/unitree_main/
 
 tiago:
   - title: "Tiago Documentation"
-    url: /_pages/tiago_main/
-
+    url: /docs/tiago_main/
 
 biscee:
   - title: "Biscee Documentation"
-    url: /_pages/biscee_main/
+    url: /docs/biscee_main/
