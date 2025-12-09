@@ -67,6 +67,6 @@ The main concept with the robot builds up like this: The OpenCR board controlls 
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <a href="/docs/mecanumbot_main/" class="btn btn--primary">Previous Page</a>
-  <a href="/docs/hardware_assembly/" class="btn btn--primary">Next Page</a>
+  <a href="/docs/mecanumbot/microcontroller_codes/" class="btn btn--primary">Next Page</a>
 </div>
 
