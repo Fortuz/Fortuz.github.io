@@ -2,17 +2,19 @@
 main:
   - title: "Home"
     url: https://fortuz.github.io/
-  - title: "Staff"
-    url: /docs/staff/
-  - title: "Useful"
-    url: /docs/useful/
+  - title: "Contribution"
+    url: /docs/contribution/
+  - title: "Credits"
+    url: /docs/credits/
 
 mecanumbot:
   - title: "Mecanumbot"
     url: /docs/mecanumbot_main/
     children:
-      - title: "Assembly Instructions"
-        url: /docs/mecanumbot_main/#assembly-instructions
+      - title: "Overview"
+        url: /docs/mecanumbot_main/#overview
+      - title: "Hardware Assembly"
+        url: /docs/mecanumbot/hardware_assembly/#hardware_assembly
 
 unitree:
   - title: "Unitree Documentation"

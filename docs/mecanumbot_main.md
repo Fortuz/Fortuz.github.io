@@ -27,5 +27,5 @@ The project is currently developed in ROS2 Humble.
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <a href="/" class="btn btn--primary">Home</a>
-  <a href="/docs/hardware_assembly/" class="btn btn--primary">Next Page</a>
+  <a href="/docs/mecanumbot/hardware_assembly/" class="btn btn--primary">Next Page</a>
 </div>
