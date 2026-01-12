@@ -13,7 +13,20 @@ Good to know information for students, ecspecially for Phd students.
 
 ## Example LaTeX
 
-Inline LaTeX: $$E = mc^2$$
+```latex
+E = mc^2
+```
+
+$$E = mc^2$$
+
+Source LaTeX:
+
+```latex
+\begin{align}
+  a &= b + c \\
+  x &= y + z
+\end{align}
+```
 
 Display LaTeX:
 
