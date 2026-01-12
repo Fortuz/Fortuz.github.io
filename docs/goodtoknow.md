@@ -11,3 +11,15 @@ permalink: /docs/goodtoknow/
 
 Good to know information for students, ecspecially for Phd students.
 
+## Example LaTeX
+
+Inline LaTeX: $$E = mc^2$$
+
+Display LaTeX:
+
+$$
+\begin{align}
+  a &= b + c \\
+  x &= y + z
+\end{align}
+$$
