@@ -2,10 +2,17 @@
 main:
   - title: "Home"
     url: https://fortuz.github.io/
+  - title: "Projects"
+    url: /docs/projects/
+  - title: "Good to Know"
+    url: /docs/goodtoknow/
   - title: "Contribution"
     url: /docs/contribution/
   - title: "Credits"
     url: /docs/credits/
+
+goodtoknow:
+  - title: "How to Write"
 
 mecanumbot:
   - title: "Mecanumbot"
@@ -29,3 +36,18 @@ tiago:
 biscee:
   - title: "Biscee Documentation"
     url: /docs/biscee_main/
+
+projects:
+  - title: "Mecanumbot"
+    children:
+      - title: "Mecanumbot Simulation Project"
+        url: /docs/projects/mecanumbot_simulation/
+  - title: "Unitree"
+    children:
+      - title: "No available projects"
+  - title: "Tiago"
+    children:
+      - title: "No available projects"
+  - title: "Biscee"
+    children:
+      - title: "No available projects"

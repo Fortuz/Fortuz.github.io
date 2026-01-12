@@ -9,6 +9,11 @@ permalink: /docs/credits/
 
 The devouted staff working on the projects.
 
-## Csenge Hubay
+### Csenge Hubay
+Mecanumbot ROS2 arhitecture, navigation.
 
-## Benedek Fegyó
+### Benedek Fegyó
+Mecanumbot microcontroller codes, Tiago support.
+
+### Bandó Kovács
+3D printing, conceptualization, kernel level magic.
