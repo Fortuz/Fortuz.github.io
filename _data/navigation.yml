@@ -36,6 +36,9 @@ tiago:
 biscee:
   - title: "Biscee Documentation"
     url: /docs/biscee_main/
+    children:
+      - title: "Microcontroller Codes"
+        url: /docs/biscee/microcontroller_codes/#microcontroller_codes
 
 projects:
   - title: "Mecanumbot"
