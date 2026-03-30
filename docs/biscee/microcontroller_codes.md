@@ -32,7 +32,7 @@ git clone https://github.com/Fortuz/biscee_microcontrollers.git
 If cloned sucesfully the microcontroller codes should appear in the Arduino IDE.
 </p>
 
-![Arduino sketch option](assets/images/biscee/biscee_arduino_sketch.png)
+![Arduino sketch option](/assets/images/biscee/biscee_arduino_sketch.png)
 
 <p style="text-align: justify;">
 Port, Board and Bootloader options should be set according to the different boards before uploading the codes.
