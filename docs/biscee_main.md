@@ -14,4 +14,4 @@ permalink: /docs/biscee_main/
 | Repository | Description | State |
 |------------|-------------| ------|
 | [Fortuz.github.io](https://github.com/Fortuz/Fortuz.github.io) | Source code for the webpage documentation | Ready |
-| [mecanumbot_microcontrollers](https://github.com/Fortuz/biscee_microcontrollers) | Modified OpenCR microcontroller code to use with the ROS2 main code. Standalone OpenCR code for just gamepad conrol. Arduino Nano code for controlling the LEDs.  | Ready |
+| [biscee_microcontrollers](https://github.com/Fortuz/biscee_microcontrollers) | Modified OpenCR microcontroller code to use with the ROS2 main code. Standalone OpenCR code for just gamepad conrol. Arduino Nano code for controlling the LEDs.  | Ready |
